@@ -1,0 +1,6 @@
+E:\code\Picture_splice\Texts\bin\Debug\Texts.dll
+E:\code\Picture_splice\Texts\bin\Debug\Texts.pdb
+E:\code\Picture_splice\Texts\obj\Debug\Texts.csprojAssemblyReference.cache
+E:\code\Picture_splice\Texts\obj\Debug\Texts.csproj.CoreCompileInputs.cache
+E:\code\Picture_splice\Texts\obj\Debug\Texts.dll
+E:\code\Picture_splice\Texts\obj\Debug\Texts.pdb

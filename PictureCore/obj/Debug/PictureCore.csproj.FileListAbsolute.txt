@@ -1,0 +1,6 @@
+E:\code\Picture_splice\PictureCore\bin\Debug\PictureCore.dll
+E:\code\Picture_splice\PictureCore\bin\Debug\PictureCore.pdb
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.csprojAssemblyReference.cache
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.csproj.CoreCompileInputs.cache
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.dll
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.pdb
